@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "354383412813",
+    "firebase_url": "https://ponzu-5e308.firebaseio.com",
+    "project_id": "ponzu-5e308",
+    "storage_bucket": "ponzu-5e308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354383412813:android:45ebb54eb3c26800",
+        "android_client_info": {
+          "package_name": "com.sussman.ponzu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354383412813-2dcbd279lpgkkj9d7fjgm9ak7m3bedh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sussman.ponzu",
+            "certificate_hash": "ed3fcafecec48cd02bcc34178ca5248af4bde38a"
+          }
+        },
+        {
+          "client_id": "354383412813-jagi6435rm5vu3l6k56h6jcr71ego9j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPtLOKyxTnfFT6hc-5RRzP98la5nEgJOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354383412813-jagi6435rm5vu3l6k56h6jcr71ego9j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
