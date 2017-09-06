@@ -1,0 +1,7 @@
+#Sat Sep 02 13:11:42 PDT 2017
+base.0=C\:\\Well Tempered\\Android_Application\\Ponzu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_06d070bb3e344185e15a4e8070f706c56ce3fb71
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Well Tempered\\Android_Application\\Ponzu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3c0775bb7328106aedd12a71c42f714dedcf22ca\\classes.dex
+base.1=C\:\\Well Tempered\\Android_Application\\Ponzu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3c0775bb7328106aedd12a71c42f714dedcf22ca
+file.0=C\:\\Well Tempered\\Android_Application\\Ponzu\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_06d070bb3e344185e15a4e8070f706c56ce3fb71\\classes.dex

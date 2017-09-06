@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">354383412813-jagi6435rm5vu3l6k56h6jcr71ego9j8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ponzu-5e308.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">354383412813</string>
+    <string name="google_api_key" translatable="false">AIzaSyDPtLOKyxTnfFT6hc-5RRzP98la5nEgJOs</string>
+    <string name="google_app_id" translatable="false">1:354383412813:android:45ebb54eb3c26800</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDPtLOKyxTnfFT6hc-5RRzP98la5nEgJOs</string>
+    <string name="google_storage_bucket" translatable="false">ponzu-5e308.appspot.com</string>
+</resources>
