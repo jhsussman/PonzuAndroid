@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <items version="2" >
 
     <item
@@ -21,3 +22,27 @@
     </item>
 
 </items>
+=======
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Well Tempered\Android_Application\Ponzu\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="06cec46c53e36068d8e77c3e1b463ce196bcfb0a">
+        <dex dex="C:\Well Tempered\Android_Application\Ponzu\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_06d070bb3e344185e15a4e8070f706c56ce3fb71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Well Tempered\Android_Application\Ponzu\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Well Tempered\Android_Application\Ponzu\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3c0775bb7328106aedd12a71c42f714dedcf22ca\classes.dex" />
+    </item>
+
+</items>
+>>>>>>> 472b07066082bae0b6e11b4849c1bb96125d9da9
